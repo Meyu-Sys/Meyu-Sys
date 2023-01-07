@@ -21,6 +21,7 @@
 - [Meyu-Sys/dotties](https://github.com/Meyu-Sys/dotties) - 
 ### 🔨 My recent Pull Requests
 
+- [Added debian linux](https://github.com/Meyu-Sys/dotties/pull/1) on [Meyu-Sys/dotties](https://github.com/Meyu-Sys/dotties)
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Added SDDM Theming](https://github.com/ChrisTitusTech/Debian-titus/pull/41) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
