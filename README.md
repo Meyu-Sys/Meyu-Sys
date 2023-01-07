@@ -10,3 +10,23 @@
 <a href="https://wakatime.com/@meyu">
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@meyu/b854cb88-473a-4974-9484-9720c9e06922.svg" />
 </a></p>
+
+
+### 👷 Check out what I'm currently working on
+
+- [Meyu-Sys/dotties](https://github.com/Meyu-Sys/dotties) - 
+- [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
+### 🌱 My latest projects
+
+- [Meyu-Sys/dotties](https://github.com/Meyu-Sys/dotties) - 
+### 🔨 My recent Pull Requests
+
+- [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
+- [Added SDDM Theming](https://github.com/ChrisTitusTech/Debian-titus/pull/41) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
+### ⭐ Recent Stars
+
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [SDRausty/termux-archlinux](https://github.com/SDRausty/termux-archlinux) - You can use setupTermuxArch.bash 📲 to install Arch Linux in Termux on Amazon, Android, Chromebook and Windows.  https://sdrausty.github.io/termux-archlinux/
+- [jellyfin/jellyfin-media-player](https://github.com/jellyfin/jellyfin-media-player) - Jellyfin Desktop Client based on Plex Media Player
