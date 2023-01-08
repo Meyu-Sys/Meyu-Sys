@@ -14,14 +14,16 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Meyu-Sys/dotties](https://github.com/Meyu-Sys/dotties) - 
+- [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
+- [Meyu-Sys/deb-sys](https://github.com/Meyu-Sys/deb-sys) - 
 - [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
 ### 🌱 My latest projects
 
-- [Meyu-Sys/dotties](https://github.com/Meyu-Sys/dotties) - 
+- [Meyu-Sys/deb-sys](https://github.com/Meyu-Sys/deb-sys) - 
+- [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 ### 🔨 My recent Pull Requests
 
-- [Added debian linux](https://github.com/Meyu-Sys/dotties/pull/1) on [Meyu-Sys/dotties](https://github.com/Meyu-Sys/dotties)
+- [Added debian linux](https://github.com/Meyu-Sys/win-sys/pull/1) on [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys)
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Added SDDM Theming](https://github.com/ChrisTitusTech/Debian-titus/pull/41) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
