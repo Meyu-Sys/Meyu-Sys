@@ -32,6 +32,6 @@
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: 𝐀esthetic 𝐎penbox𝐖𝐌 𝐄nvironment
+- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
 - [L4ki/Gently](https://github.com/L4ki/Gently) - Dark Plasma Theme
   
