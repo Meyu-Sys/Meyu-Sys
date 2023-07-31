@@ -14,9 +14,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
-- [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
 - [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
 ### 🌱 My latest projects
 
@@ -30,9 +30,9 @@
 - [Added SDDM Theming](https://github.com/ChrisTitusTech/Debian-titus/pull/41) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search &amp; app launcher for Windows with community-made plugins
 - [oliverschwendener/ueli](https://github.com/oliverschwendener/ueli) - Keystroke launcher for Windows and macOS
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
-- [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
-- [L4ki/Gently](https://github.com/L4ki/Gently) - Dark Plasma Theme
   
