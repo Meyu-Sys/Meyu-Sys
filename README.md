@@ -17,7 +17,6 @@
 - [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
-- [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus) - Debian customizations from Chris Titus Tech
 ### 🌱 My latest projects
 
 - [Meyu-Sys/probable-train](https://github.com/Meyu-Sys/probable-train) - 
