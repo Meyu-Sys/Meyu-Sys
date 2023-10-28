@@ -14,16 +14,21 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys) - series-intro-to-github-flow-Meyu-Sys created by GitHub Classroom
+- [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
 - [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 ### 🌱 My latest projects
 
+- [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
 - [Meyu-Sys/probable-train](https://github.com/Meyu-Sys/probable-train) - 
 - [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 ### 🔨 My recent Pull Requests
 
+- [add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys/pull/3) on [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys)
+- [Add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys/pull/2) on [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys)
 - [Added debian linux](https://github.com/Meyu-Sys/win-sys/pull/1) on [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys)
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 - [Added SDDM Theming](https://github.com/ChrisTitusTech/Debian-titus/pull/41) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
