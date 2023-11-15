@@ -4,6 +4,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Meyu-Sys&show_icons=true&theme=aura_dark" />
 </a></p>
 
+<p align="center"><a href="https://wakatime.com/@meyu">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@meyu/3602f6a4-4a98-4c61-b720-31a83ac5cc61.svg" />
+</a>
+<a href="https://wakatime.com/@meyu">
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@meyu/b854cb88-473a-4974-9484-9720c9e06922.svg" />
+</a></p>
+
+
 ### 👷 Check out what I'm currently working on
 
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys) - series-communicate-using-markdown-Meyu-Sys created by GitHub Classroom
@@ -26,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [Kitsun3Sec/Pentest-Cheat-Sheets](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets) - A collection of snippets of codes and commands to make your life easier! 
+- [Mahmud0808/Iconify](https://github.com/Mahmud0808/Iconify) - Customize Boring Android UI
 - [trynoice/android-app](https://github.com/trynoice/android-app) - The Android app for Noice.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [withfig/fig](https://github.com/withfig/fig) - Public issue tracker for Fig.
-- [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you&#39;ve got a brilliant idea you can&#39;t wait to share with others? Open Source Ideas is a community built specifically for this! 👋
-- [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
   
