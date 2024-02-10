@@ -34,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally.
 - [x0rzavi/github-readme-terminal](https://github.com/x0rzavi/github-readme-terminal) - ✨ Elevate your GitHub Profile ReadMe with Minimalistic Retro Terminal GIFs 🚀
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [jarnedemeulemeester/findroid](https://github.com/jarnedemeulemeester/findroid) - Third-party native Jellyfin Android app
 - [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
-- [UdaraJay/Pile](https://github.com/UdaraJay/Pile) - Desktop app for digital journaling. 
   
