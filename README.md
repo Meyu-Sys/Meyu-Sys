@@ -14,17 +14,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
+- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - 
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys) - series-communicate-using-markdown-Meyu-Sys created by GitHub Classroom
 - [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys) - series-intro-to-github-flow-Meyu-Sys created by GitHub Classroom
 - [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
-- [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 ### 🌱 My latest projects
 
+- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - 
+- [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
 - [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
 - [Meyu-Sys/probable-train](https://github.com/Meyu-Sys/probable-train) - 
 - [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
-- [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 ### 🔨 My recent Pull Requests
 
 - [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys)
