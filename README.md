@@ -14,14 +14,14 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - 
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
+- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys) - series-communicate-using-markdown-Meyu-Sys created by GitHub Classroom
 - [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys) - series-intro-to-github-flow-Meyu-Sys created by GitHub Classroom
 - [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
 ### 🌱 My latest projects
 
-- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - 
+- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
 - [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
 - [Meyu-Sys/probable-train](https://github.com/Meyu-Sys/probable-train) - 
