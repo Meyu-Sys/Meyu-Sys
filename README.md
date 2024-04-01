@@ -24,8 +24,7 @@
 - [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
 - [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
-- [Meyu-Sys/probable-train](https://github.com/Meyu-Sys/probable-train) - 
-- [Meyu-Sys/fedora-sys](https://github.com/Meyu-Sys/fedora-sys) - 
+- [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 ### 🔨 My recent Pull Requests
 
 - [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys)
@@ -35,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, Pi 5, any Ubuntu/Debian system, or a VPS.
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100&#43; LLMs)
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
   
