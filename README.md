@@ -34,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Experiment with Large Language Models
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~1 open YouTube / Video Web-Extension] Enrich your experience &amp; choice! 🧰100&#43; clever features📌set &amp; forget📌Longest-standing (yet rare &amp; tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content discovery|player|extra buttons|distractions|related videos|shorts|ads|quality|codec|full tab|full screen}
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Google Location History (Google Maps Timeline) self-hosted alternative.
-- [zoriya/Kyoo](https://github.com/zoriya/Kyoo) - A portable and vast media library solution.
   
