@@ -14,11 +14,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
 - [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
 - [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys) - series-communicate-using-markdown-Meyu-Sys created by GitHub Classroom
 - [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys) - series-intro-to-github-flow-Meyu-Sys created by GitHub Classroom
-- [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
 ### 🌱 My latest projects
 
 - [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
@@ -34,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
 - [Buried-In-Code/Himon](https://github.com/Buried-In-Code/Himon) - A Python wrapper for League of Comic Geeks.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [lumen-notes/lumen](https://github.com/lumen-notes/lumen) - A simple note-taking app for better thinking
   
