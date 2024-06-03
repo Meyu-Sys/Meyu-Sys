@@ -34,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
-- [Buried-In-Code/Himon](https://github.com/Buried-In-Code/Himon) - A Python wrapper for League of Comic Geeks.
   
