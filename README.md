@@ -34,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
-- [namazso/SecureUxTheme](https://github.com/namazso/SecureUxTheme) - 🎨 A secure boot compatible in-memory UxTheme patcher
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) - LLM Frontend for Power Users.
-- [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances
+- [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) - A private messenger for Android.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative.
+- [omnivore-app/obsidian-omnivore](https://github.com/omnivore-app/obsidian-omnivore) - Obsidian plugin to fetch articles and highlights from Omnivore
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+- [ihebski/A-Red-Teamer-diaries](https://github.com/ihebski/A-Red-Teamer-diaries) - RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.
   
