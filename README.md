@@ -34,9 +34,9 @@
 - [Wallpaper and Sddm](https://github.com/ChrisTitusTech/Debian-titus/pull/47) on [ChrisTitusTech/Debian-titus](https://github.com/ChrisTitusTech/Debian-titus)
 ### ⭐ Recent Stars
 
+- [Casvt/Kapowarr](https://github.com/Casvt/Kapowarr) - Kapowarr is a software to build and manage a comic book library, fitting in the *arr suite of software.
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
   
