@@ -34,9 +34,9 @@
 - [Added debian linux](https://github.com/Meyu-Sys/win-sys/pull/1) on [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys)
 ### ⭐ Recent Stars
 
+- [ptah-sh/ptah-server](https://github.com/ptah-sh/ptah-server) - Self-hosted alternative to Heroku/Vercel
 - [ForrestKnight/open-source-cs](https://github.com/ForrestKnight/open-source-cs) - Video discussing this curriculum:
 - [foocorp/hacienda](https://github.com/foocorp/hacienda) - The Hacienda must be built
 - [neurokitti/Arc_Palette](https://github.com/neurokitti/Arc_Palette) - a community made gradient application for arc
 - [fredrikburmester/streamyfin](https://github.com/fredrikburmester/streamyfin) - A Jellyfin client build with Expo
-- [JosefNemec/Playnite](https://github.com/JosefNemec/Playnite) - Video game library manager with support for wide range of 3rd party libraries and game emulation support, providing one unified interface for your games.
   
