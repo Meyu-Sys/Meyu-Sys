@@ -34,9 +34,9 @@
 - [Added debian linux](https://github.com/Meyu-Sys/win-sys/pull/1) on [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys)
 ### ⭐ Recent Stars
 
+- [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch) - Next generation Cosmic desktop environment
 - [mbecker20/komodo](https://github.com/mbecker20/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
 - [hovancik/stretchly](https://github.com/hovancik/stretchly) - The break time reminder app
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)
 - [Automattic/pocket-casts-android](https://github.com/Automattic/pocket-casts-android) - Pocket Casts Android 🎧
-- [kawaiiDango/pano-scrobbler](https://github.com/kawaiiDango/pano-scrobbler) - Scrobbles to last.fm, ListenBrainz, libre.fm, GNU FM, Maloja, Pleroma or to a file, on Android
   
