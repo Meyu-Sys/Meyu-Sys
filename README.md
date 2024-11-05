@@ -17,7 +17,6 @@
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 - [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
-- [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys) - series-communicate-using-markdown-Meyu-Sys created by GitHub Classroom
 ### 🌱 My latest projects
 
 - [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
