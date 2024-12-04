@@ -15,11 +15,9 @@
 ### 👷 Check out what I'm currently working on
 
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
-- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
 ### 🌱 My latest projects
 
-- [Meyu-Sys/Habit](https://github.com/Meyu-Sys/Habit) - CS50P Final Project. A simple CLI habit tracker
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
 - [Meyu-Sys/Meyu-Sys.github.io](https://github.com/Meyu-Sys/Meyu-Sys.github.io) - 
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
