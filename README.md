@@ -30,9 +30,9 @@
 - [add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys/pull/3) on [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys)
 ### ⭐ Recent Stars
 
+- [ShareX/ShareX](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [sameerasw/zeninternet](https://github.com/sameerasw/zeninternet) - Get all my-internet latest website theming in Zen browser easily!
 - [OuterTune/OuterTune](https://github.com/OuterTune/OuterTune) - A Material 3 Music Player with YouTube Music support for Android. Forked from InnerTune
-- [coredevices/pebble](https://github.com/coredevices/pebble) - This is the latest version of the internal repository from Pebble Technology providing the software to run on Pebble watches. Proprietary source code has been removed from this repository and it will not compile as-is. This is for information only.
   
