@@ -23,9 +23,9 @@
 - [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 ### 🔨 My recent Pull Requests
 
+- [sync](https://github.com/Meyu-Sys/meyu.nvim/pull/3) on [Meyu-Sys/meyu.nvim](https://github.com/Meyu-Sys/meyu.nvim)
 - [Original](https://github.com/Meyu-Sys/meyu.nvim/pull/2) on [Meyu-Sys/meyu.nvim](https://github.com/Meyu-Sys/meyu.nvim)
 - [Ah shit here we go again](https://github.com/Meyu-Sys/meyu.nvim/pull/1) on [Meyu-Sys/meyu.nvim](https://github.com/Meyu-Sys/meyu.nvim)
-- [yahoo](https://github.com/Meyu-Sys/100-exercises-to-learn-rust/pull/1) on [Meyu-Sys/100-exercises-to-learn-rust](https://github.com/Meyu-Sys/100-exercises-to-learn-rust)
 - [Start markdown](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys/pull/3) on [Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Meyu-Sys)
 - [add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys/pull/3) on [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys)
 ### ⭐ Recent Stars
