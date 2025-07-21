@@ -14,7 +14,6 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [Meyu-Sys/win-sys](https://github.com/Meyu-Sys/win-sys) - 
 ### 🌱 My latest projects
 
 - [Meyu-Sys/CS50P](https://github.com/Meyu-Sys/CS50P) - 
