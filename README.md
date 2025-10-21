@@ -28,9 +28,9 @@
 - [add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys/pull/3) on [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys)
 ### ⭐ Recent Stars
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [tusharonly/norm](https://github.com/tusharonly/norm) - Norm is an open-source habit tracker.
 - [beeper/raycast](https://github.com/beeper/raycast) - Raycast extension for Beeper Desktop (work in progress!)
 - [Alex313031/winring0_1_3_0](https://github.com/Alex313031/winring0_1_3_0) - WinRing0 is a hardware access library and driver for Windows NT. Original 1.3.0 hiyohiyo source ported to MSVS 2022 and GN/Ninja
 - [fross100/Winget-Raycast](https://github.com/fross100/Winget-Raycast) - Search, Install, Update winget package from your raycast windows
-- [dougfernando/everything-raycast-extension](https://github.com/dougfernando/everything-raycast-extension) - Raycast for windows extension for Everything Search (VoidTools)
   
