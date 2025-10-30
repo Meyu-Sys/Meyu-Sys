@@ -28,9 +28,9 @@
 - [add my first file](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys/pull/3) on [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-Meyu-Sys)
 ### ⭐ Recent Stars
 
+- [aaaaalexis/obsidian-baseline](https://github.com/aaaaalexis/obsidian-baseline) - Baseline sets a new standard for your Obsidian vault experience.
 - [dedicatedcode/reitti](https://github.com/dedicatedcode/reitti) - Reitti is a comprehensive personal location tracking and analysis application that helps you understand your movement patterns and significant places. The name &#34;Reitti&#34; comes from Finnish, meaning &#34;route&#34; or &#34;path&#34;.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [tusharonly/norm](https://github.com/tusharonly/norm) - Norm is an open-source habit tracker.
 - [beeper/raycast](https://github.com/beeper/raycast) - Raycast extension for Beeper Desktop (work in progress!)
-- [Alex313031/winring0_1_3_0](https://github.com/Alex313031/winring0_1_3_0) - WinRing0 is a hardware access library and driver for Windows NT. Original 1.3.0 hiyohiyo source ported to MSVS 2022 and GN/Ninja
   
